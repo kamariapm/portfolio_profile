@@ -8,9 +8,14 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, My Name is Pedro</h2>
+        <h2> Hi, My Name is Kamaria</h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>
+            I'm a software developer! I've found that being in the posture of a
+            student keeps you youthful. So whether I am learning from
+            family/friends, life, picking up new skills etc, I find value in it
+            all!
+          </p>
           <LinkedInIcon />
           <EmailIcon />
           <GithubIcon />
@@ -22,20 +27,17 @@ function Home() {
           <li className="item">
             <h2> Front-End</h2>
             <span>
-              ReactJS, Angular, Redux, HTML, CSS, React Native, Flutter, NPM,
-              Ionic, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+              ReactJS, Redux, HTML, CSS, NPM, SemanticUI, BootStrap, MaterialUI,
+              Yarn,
             </span>
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span>
-              NodeJS, Java Spring, .NET, ExpressJS, GraphQL, ApolloServer,
-              MySQL, MongoDB, DynamoDB, DigitalOcean, AWS S3, MS SQL
-            </span>
+            <span>Node, Express, MySQL, MongoDB</span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span>JavaScript, Java, Python, C#, C, C++, TypeScript, Go</span>
+            <span>JavaScript, Python, TypeScript</span>
           </li>
         </ol>
       </div>
