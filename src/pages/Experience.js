@@ -12,7 +12,7 @@ import "../styles/Experience.css";
 function Experience() {
   return (
     <div className="experience">
-      <VerticalTimeline lineColor="#494949">
+      <VerticalTimeline lineColor="#00675b">
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
           iconStyle={{ background: "#52c7b8", color: "#494949" }}
